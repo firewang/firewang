@@ -31,7 +31,7 @@
 - ⚡ Fun fact: ...
 
 ### Current stats:
-<br />
+
 [![firewang's github stats](https://github-readme-stats.vercel.app/api?username=firewang)](https://github.com/firewang/github-readme-stats)
-<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firewang)](https://github.com/firewang/github-readme-stats)
